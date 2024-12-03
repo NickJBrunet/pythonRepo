@@ -6,5 +6,4 @@ Feature B code line
 # comments
 
 
-This code is involed in feature-a
-Lets call this feature-1
+This code is involed in feature-1
